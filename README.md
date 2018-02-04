@@ -101,7 +101,7 @@ area.setStyle(from, to, "-fx-font-weight: bold;");
 
 ### StyleClassedTextArea
 
-`StyleClassedTextArea` uses the `Node#setStyleClass(String styleClass) method to style `Text` objects. You can define the style classes in your stylesheet.
+`StyleClassedTextArea` uses the `Node#setStyleClass(String styleClass)` method to style `Text` objects. You can define the style classes in your stylesheet.
 
 example.css:
 
